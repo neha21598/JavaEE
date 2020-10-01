@@ -1,0 +1,12 @@
+1]FirstServ
+
+To display a simple Hello message on servlet
+**********************************************
+2]SecondServ 
+	i]Form.html
+	Enter Name and Age
+
+	ii]SecondServ.java
+	Insert the requested parameters in database
+
+
